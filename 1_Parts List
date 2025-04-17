@@ -1,0 +1,18 @@
+1. Arduino Nano(Recommended - Small Footprint), or Uno, or Mega
+
+2. AS5600 with diametrically magnetized magnet
+
+3. All 3d Printed Parts
+
+4. 775 Motor shaft on both side
+
+5. BTS7960B
+
+
+// Unnecessary if using custom mounting options with motor snd the pendulum!
+
+6. Flange Shaft Coupling 2 pcs
+
+7. M6 x 250mm threaded or unthreaded rod
+
+8. Mass for Rod - used a stepper motor in my case
